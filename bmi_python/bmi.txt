@@ -1,0 +1,9 @@
+﻿BMI=WeightInKilograms/HeightInMeters*HeightInMeters
+
+Underweight: BMI < 18.5BMI<18.5
+Normal: 18.5 \le BMI < 2518.5≤BMI<25
+Overweight: 25 \le BMI < 3025≤BMI<30
+Obese: 30 \le BMI30≤BMI
+
+*************
+خروجی: bmi تا دو رقم اعشار وپیام مناسب با آن

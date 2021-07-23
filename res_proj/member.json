@@ -1,0 +1,71 @@
+{
+    
+    "employee":{ "id" :"1",
+    "first_name":"zahra",
+    "last_name" :"farrokhi" ,  
+    "tel":"2222",
+    "adress":"teh" ,
+    "pastbuy" :null  ,
+    "cart_list" :null
+ }
+   "user2:{
+   "id" :"2",
+    "first_name":"mina",
+    "last_name" :"asri" ,  
+    "tel":"0938897",
+    "adress":"teh" ,
+    "pastbuy" :null  ,
+    "cart_list" :null
+
+
+
+}
+ "user3:{
+   "id" :"3",
+    "first_name":"ali",
+    "last_name" :"fahimi" ,  
+    "tel":"8888",
+    "adress":"teh" ,
+    "pastbuy" :null  ,
+    "cart_list" :null
+
+
+
+}
+ "user4:{
+   "id" :"4",
+    "first_name":"arash",
+    "last_name" :"radin" ,  
+    "tel":"0912878",
+    "adress":"teh" ,
+    "pastbuy" :null  ,
+    "cart_list" :null
+
+
+
+}   
+"user5:{
+   "id" :"5",
+    "first_name":"sara",
+    "last_name" :"kalami" ,  
+    "tel":"091258",
+    "adress":"teh" ,
+    "pastbuy" :null  ,
+    "cart_list" :null
+
+
+
+}   
+"user6:{
+   "id" :"4",
+    "first_name":"samira",
+    "last_name" :"moghimi" ,  
+    "tel":"0912789",
+    "adress":"t" ,
+    "pastbuy" :null  ,
+    "cart_list" :null
+
+
+
+}   
+}
