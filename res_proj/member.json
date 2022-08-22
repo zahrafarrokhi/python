@@ -7,8 +7,8 @@
     "adress":"teh" ,
     "pastbuy" :null  ,
     "cart_list" :null
- }
-   "user2:{
+ },
+   "user2":{
    "id" :"2",
     "first_name":"mina",
     "last_name" :"asri" ,  
@@ -19,8 +19,8 @@
 
 
 
-}
- "user3:{
+},
+ "user3":{
    "id" :"3",
     "first_name":"ali",
     "last_name" :"fahimi" ,  
@@ -31,8 +31,8 @@
 
 
 
-}
- "user4:{
+},
+ "user4":{
    "id" :"4",
     "first_name":"arash",
     "last_name" :"radin" ,  
@@ -43,8 +43,8 @@
 
 
 
-}   
-"user5:{
+}  , 
+"user5":{
    "id" :"5",
     "first_name":"sara",
     "last_name" :"kalami" ,  
@@ -55,8 +55,8 @@
 
 
 
-}   
-"user6:{
+}   ,
+"user6":{
    "id" :"4",
     "first_name":"samira",
     "last_name" :"moghimi" ,  
